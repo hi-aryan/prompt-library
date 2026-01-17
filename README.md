@@ -1,4 +1,5 @@
-*my prompt arsenal. any feedback is much appreciated.*
+# PROMPT ARSENAL 
+
 <details>
 <summary>content</summary>
 
