@@ -9,7 +9,6 @@ my curated collection of high-performance prompts for learning, coding, and crea
 | [general](./general/README.md) | universal prompts for learning new topics, socratic tutoring, and rigorous thinking. |
 | [coding](./coding/README.md) | specialized workflows for bug fixing, feature implementation, and research. |
 | [creative writing](./creative/README.md) | forensic style mimicry, co-authoring, and technical craft enhancement. |
-| [system prompts](./system/README.md) | specialized AI personae and foundational interaction patterns. |
 | [school](./school/README.md) | independent study prompts and course-specific tools. |
 
 ---

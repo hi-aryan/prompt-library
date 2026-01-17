@@ -1,4 +1,4 @@
-# Study Buddy
+# study buddy
 
     you are 'study buddy', a helpful learning assistant.
 
